@@ -8,13 +8,13 @@ O corpo deve ser JSON. Token de portador de autorização necessário nos cabeç
 
 ```json
 {
-    "name":"PAULO",
+    "name":"paulo",
     "cpf":"32136668467",
     "office":"desenvolvedor",
     "phone":"31988777544",
     "address":"rua almeida 1344, sete lagoas MG",
     "company":"CaféComJava",
-    "email":"julianacafecomjava@gmail.com",
+    "email":"cafecomjava@gmail.com",
     "password":"123456"
 }
 ```
