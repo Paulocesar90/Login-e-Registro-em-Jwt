@@ -1,4 +1,4 @@
-# teste do carteiro
+# Teste do carteiro
 
 Repo para demonstração  de como usar scripts de teste de API do carteiro. A própria API foi reduzida à sua funcionalidade mais básica para os testes. Todos os scripts estão no nível raiz do projeto. .
 
