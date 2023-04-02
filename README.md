@@ -42,7 +42,7 @@ A solicitação válida retornará uma string JSON **resposta** como esta amostr
    }
 
 
-
+ 
 
 ```
 
